@@ -25,7 +25,7 @@ End-to-end Business Intelligence project analysing employee attrition across 1,4
 | Finding | Number |
 |---|---|
 | Overall attrition rate | 16.1% (237 of 1,470 employees) |
-| Sales department attrition | 20.6% — highest of 3 departments |
+| Sales department attrition | 20.6% - highest of 3 departments |
 | Overtime employees attrition rate | 30.5% vs 10.4% non-overtime (3x rate) |
 | Early tenure attrition (0–2 years) | 28.3% - 4x the rate of 10+ year employees |
 | Average income gap: leavers vs stayers | $4,787 vs $6,833 - 30% difference |
